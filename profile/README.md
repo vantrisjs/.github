@@ -1,29 +1,32 @@
 <div align="center">
-  <br>
-  <br>
 
-  <h1>Vantris</h1>
+# Vantris
 
-  <hr width="60%">
+**A modern, fast bundler for JavaScript & TypeScript.**
 
-  <p><sub>Next-gen full-stack tooling. Fast by default.</sub></p>
+[![npm](https://img.shields.io/npm/v/vantris?color=a78bfa&label=npm)](https://www.npmjs.com/package/vantris)
+[![CI](https://github.com/vantrisjs/vantris/actions/workflows/ci.yml/badge.svg)](https://github.com/vantrisjs/vantris/actions)
+[![license](https://img.shields.io/npm/l/vantris?color=a78bfa)](https://github.com/vantrisjs/vantris/blob/main/LICENSE)
+[![node](https://img.shields.io/node/v/vantris?color=a78bfa)](https://nodejs.org)
 
-  <br>
-
-  [![version](https://npmx.dev/api/registry/badge/version/vantris)](https://npmx.dev/package/vantris)
-  [![license](https://npmx.dev/api/registry/badge/license/vantris)](https://npmx.dev/package/vantris)
-  [![downloads](https://npmx.dev/api/registry/badge/downloads/vantris)](https://npmx.dev/package/vantris)
-  [![types](https://npmx.dev/api/registry/badge/types/vantris)](https://npmx.dev/package/vantris)
-  [![size](https://npmx.dev/api/registry/badge/size/vantris)](https://npmx.dev/package/vantris)
-
-  <br>
-  <br>
-
-  [Documentation](https://github.com/vantrisjs/vantris#readme) •
-  [Getting Started](https://github.com/vantrisjs/vantris#installation) •
-  [Issues](https://github.com/vantrisjs/vantris/issues)
-
-  <br>
-
-  ### [_Get involved!_](https://github.com/vantrisjs/vantris/issues)
 </div>
+
+---
+
+A complete, zero-config development cycle — fast and modern, with the machinery
+kept out of your way.
+
+- ⚡ Instant dev server with live reload
+- 📦 Optimised production builds
+- 📚 Library mode — multiple formats in one build
+- 🗺️ Source maps for JavaScript, TypeScript, and CSS
+- 🎨 Full CSS pipeline (Modules, Sass/Less, PostCSS)
+- 🔧 Zero-config DX — env modes, `define`, aliases, caching
+
+### Repositories
+
+| Repository | Description |
+| --- | --- |
+| [**vantris**](https://github.com/vantrisjs/vantris) | The core bundler — CLI & programmatic API. |
+
+<div align="center"><sub>MIT licensed</sub></div>
