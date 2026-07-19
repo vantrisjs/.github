@@ -1,6 +1,14 @@
 <div align="center">
 
-# Vantris
+<a href="https://vantris.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="vantris-wordmark-dark.svg">
+    <img alt="Vantris" src="vantris-wordmark.svg" width="300">
+  </picture>
+</a>
+
+<br>
+<br>
 
 **A modern, fast bundler for JavaScript & TypeScript.**
 
@@ -22,5 +30,6 @@ kept out of your way.
 - 🎨 Full CSS pipeline (Modules, Sass/Less, PostCSS)
 - 🔧 Zero-config DX — env modes, `define`, aliases, caching
 
-
-<div align="center"><sub>MIT licensed</sub></div>
+<div align="center">
+  <sub>MIT licensed · <a href="https://vantris.dev">vantris.dev</a></sub>
+</div>
