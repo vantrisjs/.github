@@ -26,7 +26,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
   <sub>MIT licensed · <a href="https://vantris.dev">vantris.dev</a></sub>
