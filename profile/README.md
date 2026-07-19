@@ -3,8 +3,8 @@
 <a href="https://vantris.dev" target="_blank" >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../vantris-wordmark-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="../vantris-wordmark.svg">
-    <img alt="Vantris" src="../vantris-wordmark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../vantris-wordmark-light.svg">
+    <img alt="Vantris" src="../vantris-wordmark-light.svg">
   </picture>
 </a>
 
