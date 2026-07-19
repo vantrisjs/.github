@@ -10,10 +10,13 @@
 
 <br>
 <br>
+<br>
 
 **A modern, fast bundler for JavaScript & TypeScript.**
 
 </div>
+
+<br>
 
 ---
 
