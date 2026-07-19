@@ -20,9 +20,9 @@
 <br>
 
 <div align="center">
-[![version](https://npmx.dev/api/registry/badge/version/vantris?color=5B32F5)](https://npmx.dev/package/vantris)
-[![license](https://npmx.dev/api/registry/badge/license/vantris?color=5B32F5)](https://github.com/vantrisjs/vantris/blob/main/LICENSE)
-[![downloads](https://npmx.dev/api/registry/badge/downloads/vantris?color=5B32F5)](https://npmx.dev/package/vantris)
+<a href="https://npmx.dev/package/vantris"><img src="https://npmx.dev/api/registry/badge/version/vantris?color=5B32F5" alt="Version"></a>
+<a href="https://npmx.dev/package/vantris"><img src="https://npmx.dev/api/registry/badge/downloads/vantris?color=5B32F5" alt="downloads"></a>
+<a href="https://github.com/nuxt/nuxt/blob/main/LICENSE"><img src="https://npmx.dev/api/registry/badge/license/vantris?color=5B32F5" alt="license"></a>
 </div>
 
 <div align="center">
