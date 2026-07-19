@@ -12,9 +12,9 @@
 
 **A modern, fast bundler for JavaScript & TypeScript.**
 
-[![npm](https://img.shields.io/npm/v/vantris?color=a78bfa&label=npm)](https://www.npmjs.com/package/vantris)
-[![license](https://img.shields.io/npm/l/vantris?color=a78bfa)](https://github.com/vantrisjs/vantris/blob/main/LICENSE)
-[![node](https://img.shields.io/node/v/vantris?color=a78bfa)](https://nodejs.org)
+[![version](https://npmx.dev/api/registry/badge/version/vantris?color=5B32F5)](https://npmx.dev/package/vantris)
+[![license](https://npmx.dev/api/registry/badge/license/vantris?color=5B32F5)](https://github.com/vantrisjs/vantris/blob/main/LICENSE)
+[![downloads](https://npmx.dev/api/registry/badge/downloads/vantris?color=5B32F5)](https://npmx.dev/package/vantris)
 
 </div>
 
