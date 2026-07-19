@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../vantris-wordmark-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="../vantris-wordmark.svg">
-    <img alt="Vantris" src="../vantris-wordmark.svg" height="60">
+    <img alt="Vantris" src="../vantris-wordmark.svg">
   </picture>
 </a>
 
