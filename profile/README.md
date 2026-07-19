@@ -25,6 +25,9 @@
 <a href="https://github.com/nuxt/nuxt/blob/main/LICENSE"><img src="https://npmx.dev/api/registry/badge/license/vantris?color=5B32F5" alt="license"></a>
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <sub>MIT licensed · <a href="https://vantris.dev">vantris.dev</a></sub>
 </div>
